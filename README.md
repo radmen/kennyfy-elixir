@@ -13,3 +13,10 @@ def deps do
   ]
 end
 ```
+
+## Usage
+
+```elixir
+Kennyfy.encode("Lorem ipsum")
+Kennyfy.decode("Pmfppfpffmppppm mffpfmfmmfmfppm")
+```
